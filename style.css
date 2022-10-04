@@ -1,0 +1,49 @@
+html, body {
+    width: 50%;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    width: 360px;
+}
+
+#inputField {
+    border-radius: 19px;
+
+    width: 300px;
+    height: 46px;
+    border-width: 0;
+    border: 1px solid rgb(157, 107, 186);
+    outline: none;
+    font-size: 25px;
+    vertical-align: middle;
+}
+
+#addToDo {
+    height: 50px;
+    width: 50px;
+    border-radius: 25px;
+
+    border: 2px solid rgb(122, 97, 210);
+    vertical-align: middle;
+    font-size: 30px;
+}
+
+.paragraph-styling {
+    margin: 0;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.to-dos {
+    margin-top: 25px;
+}
+body {
+    background-image: url("https://images.unsplash.com/photo-1614850523060-8da1d56ae167?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bGlnaHQlMjBjb2xvdXJ8ZW58MHx8MHx8&w=1000&q=80");
+    background-repeat: no-repeat;
+    
+  
+   }
+   
+   
